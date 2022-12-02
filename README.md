@@ -29,8 +29,8 @@ csc 05test.dotnetc.cs
 ```
 
 ## Results (Winner announced)
-* # 1st place JAVA ![Winner Icon](images/winner-1st.png)
-* 2nd place python
-* 3rd place php
-* 4th place node
-* 5th place dotnet
+* # 1st place **JAVA** ![Winner Icon](images/winner-1st.png)
+* 2nd place **python**
+* 3rd place **php**
+* 4th place **node**
+* 5th place **dotnet**
